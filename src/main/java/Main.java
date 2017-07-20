@@ -1,5 +1,7 @@
 public class Main {
     public static void main(String[] args){
-        System.out.println("hahaha finally");
+        Haut haut = Haut.FELL;
+        LandTier hase = new LandTier(12, 20, haut);
+        System.out.println(hase.toString());
     }
 }
