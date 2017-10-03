@@ -1,5 +1,5 @@
 public class Wassertier extends Tier{
-
+//Klasse für Wassertier
     public Wassertier(int groesse, int gewicht, Haut hauttyp, GangArt gangart){
         super(groesse, gewicht, hauttyp, gangart);
     }

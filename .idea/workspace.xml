@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6dfdd280-b117-48c1-a534-e7c00128ff08" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/LandTier.java" afterPath="$PROJECT_DIR$/src/main/java/LandTier.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/Tier.java" afterPath="$PROJECT_DIR$/src/main/java/Tier.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/Wassertier.java" afterPath="$PROJECT_DIR$/src/main/java/Wassertier.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -33,8 +30,8 @@
       <file leaf-file-name="Wassertier.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/Wassertier.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="5" lean-forward="true" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
+            <state relative-caret-position="17">
+              <caret line="1" column="23" lean-forward="false" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -891,8 +888,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Wassertier.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="5" lean-forward="true" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
+        <state relative-caret-position="17">
+          <caret line="1" column="23" lean-forward="false" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
           <folding />
         </state>
       </provider>
