@@ -1,7 +1,7 @@
 public class LandTier extends Tier{
 
-    public LandTier(int groesse, int gewicht, Haut hauttyp){
-        super(groesse, gewicht, hauttyp);
+    public LandTier(int groesse, int gewicht, Haut hauttyp, GangArt gangArt){
+        super(groesse, gewicht, hauttyp, gangArt);
 
     }
 

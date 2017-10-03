@@ -1,7 +1,7 @@
 public class Wassertier extends Tier{
 
-    public Wassertier(int groesse, int gewicht, Haut hauttyp){
-        super(groesse, gewicht, hauttyp);
+    public Wassertier(int groesse, int gewicht, Haut hauttyp, GangArt gangart){
+        super(groesse, gewicht, hauttyp, gangart);
     }
 
     public void macheLaut(){
