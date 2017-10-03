@@ -1,0 +1,3 @@
+public enum GangArt {
+    ZWEIBEINER, VIERBEINER, SCHWIMMER, FLIEGER
+}
